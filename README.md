@@ -6,7 +6,7 @@ Run your `.kson` file using Node.js:
 node kson.js example.kson
 ```
 
-## 📋 Syntax & Examples
+## 📋 Syntax
 
 ### Print to Console (`log`)
 ```json
