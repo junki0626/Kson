@@ -1,9 +1,5 @@
 # KSON
 
-KSON is a minimalist, array-based programming language where brackets [...] act as literal code blocks. No boilerplate, no unneeded safety nets—just raw indexing and control flow.
-
-It is **Turing-complete**, satisfying the core requirements of a Counter Machine with just 5 fundamental commands.
-
 ## 🚀 Execution
 Run your `.kson` file using Node.js:
 ```bash
